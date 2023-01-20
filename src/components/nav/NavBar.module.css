@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Rubik+Gemstones&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Metal+Mania&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+.header{
+    color: red;
+}
+.khmerflag{
+    height: 35px;
+}
+.navbar1{
+    height: 100px;
+    width: 100%;
+    border: 1px solid black;
+    
+}
+.storeTitle{
+    opacity: 70%;
+    color: gray;
+    padding-left: 20px;
+    font-size: 45px;
+    font-family: 'Rowdies', cursive;
+}
+.storeTitle:hover{
+    color: orangered;
+}

@@ -1,0 +1,45 @@
+.banner{
+    height: 300px;
+    width: 100%;
+    object-fit: cover;
+    background: linear-gradient(261.3deg, rgba(247, 218, 191, 0.84) 16.74%, rgba(236, 236, 236, 0.45) 91.15%);
+}
+.poster{
+    padding-top: 10px;
+    width: 200px;
+    
+}
+.title{
+    position: absolute;
+    width: 689px;
+    height: 172px;
+    left: 664px;
+    top: 128px;
+
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 48px;
+    line-height: 56px;
+    display: flex;
+    align-items: center;
+
+    color: #2B2828;
+}
+.dc{
+    position: absolute;
+    width: 383px;
+    height: 112px;
+    left: 782px;
+    top: 257px;
+
+    font-family: 'Roboto Serif';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 96px;
+    line-height: 112px;
+    display: flex;
+    align-items: center;
+
+    color: #000000;
+}
